@@ -1,0 +1,16 @@
+
+cilent
+url  ----->         server(file)
+      request
+      
+url      <----------  server
+        resonse
+
+URI,URL,URN 개념 이해하기
+
+cdn 방식 : html5 문서의 head 엘리먼트 영역안에 link,script 태그의 URL 주소를 추가
+
+
+jquery-moblie
+
+page: content는 꼭 포함 하고 있어야한다.
